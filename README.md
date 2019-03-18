@@ -23,3 +23,5 @@
   * 考虑中。。。。小组成员可以各司奇想提交你们的想法。
 ## 4.提交修改请参考：
 [提交修改参考博客!](https://www.cnblogs.com/yuanchao-blog/p/10549639.html)
+'push'提交出错时请配置ssh
+[SSH配置参考](https://love-lg.github.io/2018/11/11/git-ssh/)
