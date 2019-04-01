@@ -76,7 +76,7 @@
 **参考**
 ## :hand:提交步骤
 > 1. 先点击`fork`把仓库变成你的仓库
-> 2. 打开FAReport.md文档点击:pencil2:开始编辑(在你编辑之前请点击new pullrequest将原仓库最新的修改合并到你的仓库)
+> 2. 打开FAReport.md文档点击:pencil2:开始编辑(在你编辑之前请点击new pull request将原仓库最新的修改合并到你的仓库)
 > 3. 最后`commit`提交你修改后的文档
 
 [参考链接](https://max.book118.com/html/2017/0804/125872472.shtm)
